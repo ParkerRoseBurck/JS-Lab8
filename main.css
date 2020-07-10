@@ -1,0 +1,21 @@
+html, body{
+    
+    height:100%;
+}
+section{
+    width:100%;
+    height: 100%;
+}
+article{
+    text-align: center;
+    float:left;
+    width:25%;
+    margin-left:5%;
+}
+p, ul{
+    text-align: left;
+}
+
+img{
+    max-width: 15vw;
+}
